@@ -1,5 +1,3 @@
-liyi 
-afhldkhfa
-afhd la 
-
-jflsadjflajfdlajafdla
+public static void main(String[] args){
+  sys.out("helllo world");
+}
